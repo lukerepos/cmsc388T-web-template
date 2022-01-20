@@ -21,4 +21,5 @@ jobs:
           script: |
             cd lukerepos.github.io
             git pull
+            cp ./* ../../pub/
 
