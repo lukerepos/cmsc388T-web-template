@@ -18,5 +18,5 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            git clone git@github.com:lukerepos/lukerepos.github.io.git
+            git clone github:lukerepos/lukerepos.github.io.git
 
