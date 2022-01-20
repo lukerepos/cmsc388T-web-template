@@ -19,6 +19,6 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            cd lukerepos.github.io.git
+            cd lukerepos.github.io
             git pull
 

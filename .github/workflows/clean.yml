@@ -19,5 +19,5 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             unalias rm
-            rm -rf lukerepos.github.io.git
+            rm -rf lukerepos.github.io
 
