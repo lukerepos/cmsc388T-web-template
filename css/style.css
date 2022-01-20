@@ -107,6 +107,15 @@ html, body {
     border-radius: 50%;
 }
 
+.testudo-image {
+    display: block;
+    margin-block-start: 2em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: auto;
+}
+
 .res-element {
     float: left;
     margin: 15px;
