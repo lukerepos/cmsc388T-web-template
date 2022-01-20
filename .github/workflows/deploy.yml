@@ -22,5 +22,5 @@ jobs:
             cd lukerepos.github.io
             git pull
             unalias cp
-            cp -r./* ../../pub/lukerepos.github.io
+            cp -r ./* ../../pub/lukerepos.github.io
 
